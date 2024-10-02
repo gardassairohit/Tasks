@@ -1,0 +1,12 @@
+/* Weather.css */
+.container h1 {
+    color: #0077ff;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .container p {
+    text-align: center;
+    font-size: 1.2em;
+  }
+  
